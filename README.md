@@ -14,3 +14,5 @@
   * Then run the jar file: **TeamsDbApi-0.0.1-SNAPSHOT.jar**
   * Go to the browser [http://localhost:8080/teams](http://localhost:8080/teams)
   * **Our REST API is running and ready to serve requests through port 8080 (by default)!**
+  * you will see a list of teams in __JSON__ format ![HTTPGET](/httpget.png), 
+  then you can use HTTP requests to view, add, change and delete teams from your database
