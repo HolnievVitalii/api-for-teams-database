@@ -35,10 +35,6 @@ public class Members {
         return id;
     }
 
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
     public String getMember_full_name() {
         return member_full_name;
     }
